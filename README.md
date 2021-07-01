@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 🌱 I’m currently learning Swift and Machine Learning in Python with Tensorflow 
 
@@ -11,13 +11,19 @@ Programming language's:
 
 Framework's:
 - UIKit
+- SnapKit
 - CoreML
 - Keras + Tensorflow
-- SnapKit
+- Qt
+
+Microcontroller's:
+- Atmel AVR
+- STM32 ARM
 
 Other tool's:
 - Git 
 - Trello
+- Slack
 
 ## 📫 How to reach me
 <a href="https://www.linkedin.com/in/michał-nowak-53075a17a/"> <img src="https://i.imgur.com/Ba61VxB.png" width="50" height="50" /> </a>
