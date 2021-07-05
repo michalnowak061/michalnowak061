@@ -13,6 +13,7 @@ Framework's:
 - UIKit
 - SnapKit
 - CoreML
+- Alamofire
 - Keras + Tensorflow
 - Qt
 
