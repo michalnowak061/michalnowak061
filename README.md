@@ -14,6 +14,7 @@ Framework's:
 - SnapKit
 - CoreML
 - Alamofire
+- Core Data
 - Keras + Tensorflow
 - Qt
 
