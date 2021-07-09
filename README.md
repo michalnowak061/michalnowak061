@@ -9,12 +9,14 @@ Programming language's:
 - C/C++
 - Python
 
-Framework's:
+Tool's:
 - UIKit
-- SnapKit
 - CoreML
 - Alamofire
 - Core Data
+- SnapKit
+- Periphery
+- SwiftLint
 - Keras + Tensorflow
 - Qt
 
