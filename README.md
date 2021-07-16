@@ -6,6 +6,7 @@
 
 Programming language's:
 - Swift
+- Objective-C
 - C/C++
 - Python
 
