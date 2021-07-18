@@ -1,6 +1,6 @@
-## Hi there 👋
+## 👋 Hi there
 
-🌱 I’m currently learning Swift and Machine Learning in Python with Tensorflow 
+🌱 I’m currently learning Swift and Machine Learning (Computer Vision) in Python with Keras(Tensorflow) 
 
 ## 💻 My tech stack
 
