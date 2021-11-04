@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-🌱 I’m currently learning Swift and Machine Learning (Computer Vision) in Python with Keras(Tensorflow) 
+🌱 I’m Junior iOS Developer from Poland at the beginning of his professional career 
 
 ## 💻 My tech stack
 
@@ -18,17 +18,12 @@ Tool's:
 - SnapKit
 - Periphery
 - SwiftLint
-- Keras + Tensorflow
-- Qt
-
-Microcontroller's:
-- Atmel AVR
-- STM32 ARM
 
 Other tool's:
-- Git 
+- GitLab 
 - Trello
 - Slack
+- Jira
 
 ## 📫 How to reach me
 <a href="https://www.linkedin.com/in/michał-nowak-53075a17a/"> <img src="https://i.imgur.com/Ba61VxB.png" width="50" height="50" /> </a>
