@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-🌱 I’m Junior iOS Developer from Poland at the beginning of his professional career 
+🌱 I’m Junior iOS Developer from Poland at the beginning of my professional career 
 
 ## 💻 My tech stack
 
