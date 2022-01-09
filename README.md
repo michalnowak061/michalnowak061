@@ -16,6 +16,7 @@ Tool's:
 - Alamofire
 - Core Data
 - SnapKit
+- Sourcery
 - Periphery
 - SwiftLint
 
